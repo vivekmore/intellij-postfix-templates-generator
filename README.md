@@ -1,5 +1,5 @@
 # Template File Generator for Custom Postfix Templates
-This tool simplifies and automates the generation of [Custom Postfix Tempaltes](https://github.com/xylo/intellij-postfix-templates) for Intellij IDEA.  It scans utility classes and generates postfix templates for its static methods.
+This tool simplifies and automates the generation of [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates) for Intellij IDEA.  It scans utility classes and generates postfix templates for its static methods.
 
 ## Background
 
@@ -23,7 +23,7 @@ However, to apply this function to your string object you need to be aware of th
 
 ### Solution: Postfix Template
 
-Using the [Custom Postfix Tempaltes](https://github.com/xylo/intellij-postfix-templates) plugin of Intellij IDEA we can actually define postfix templates that allow us to write
+Using the [Custom Postfix Templates](https://github.com/xylo/intellij-postfix-templates) plugin of Intellij IDEA we can actually define postfix templates that allow us to write
 ```java
 "foo".isNumeric
 ```
